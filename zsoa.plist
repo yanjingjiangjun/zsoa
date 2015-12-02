@@ -13,22 +13,6 @@
                    <key>url</key>
                    <string>http://192.168.3.221:8108/WestPark_new/uploadFile/zsoa.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://222.177.4.242/ios/icon.png</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://222.177.4.242/ios/icon.png</string>
-               </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
